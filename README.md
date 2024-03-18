@@ -4,4 +4,4 @@
 
 Para ejecutar el sistema debes poner:
 
-'''rpm install react'''
+´´´rpm install react´´´
